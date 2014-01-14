@@ -1,0 +1,60 @@
+Unique|Title|Author|Year|Pages|Publisher|Category|Rating|
+
+3|Angels and Demons|Dan Brown|---|---|---|Fiction|10
+
+4|Harry Potter and the Goblet of Fire|JK Rowling|---|---|Bloomsbury|Fantasy|---|5|Outlander|Diana Gabaldon|---|---|---|Fiction|10
+
+6|A Fine Balance|Robinton Mistry|---|---|---|Fiction|9
+
+7|The Lord of the Rings: Fellowship of the Ring|Tolkien|---|---|---|Fantasy|10
+
+8|Anne of Green Gables|L.M Montgomery|---|---|---|Children|9
+
+9|Gone With The Wind|Margaret Mitchell|---|---|---|Fiction|10
+
+10|The Lord of the Rings: Two Towers|Tolkien|---|---|---|Fantasy|10
+
+11|The Lord of the Rings: Return of the King |Tolkien|---|---|---|Fantasy|10
+
+12|Harry Potter and the Order of the Phoenix|JK Rowling|---|---|Bloomsbury|Fantasy|10
+
+13|Harry Potter and the Philosopher's Stone|JK Rowling|---|---|Bloomsbury|Fantasy|9
+
+14|Fall on Your Knees|Ann Marie MacDonald|---|---|---|Fiction|8
+
+15|The Stand|Stephen King|---|---|---|Fiction|9
+
+16|The Hobbit|Tolkien|---|---|---|Fiction|10
+
+17|The Catcher in the Rye|J Salinger|---|---|---|---|9
+
+18|Little Women|Louisa May Alcott|---|---|---|Fiction|8
+
+19|The Lovely Bones|Alice Sebold|---|---|---|Fiction|8
+
+20|Harry Potter and the Prisoner of Azkaban|JK Rowling|---|---|Bloomsbury|Fantasy|10
+
+21|Life of Pi|Yann Martel|---|---|---|Biography|8
+
+22|The Hitchhiker's Guide to the Galaxy|Douglas Adams|---|---|---|Children|7
+
+23|The Notebook|Nicholas Spark|---|---|---|Fiction|8
+
+24|1984|Orwell|---|---|---|Science Fiction|10
+
+25|The Pillars of the Earth|Ken Follett|---|---|---|Fiction|8
+
+26|The Alchemist|Paula Coelho|---|---|---|Fiction|7
+
+27|The Kite Runner|Khaled Hosseini|---|---|---|Children|---
+
+28|The Power of One |Burce Courtenay|---|---|---|Fiction|8
+
+29|Bible|---|---|---|---|Reference|10
+
+30|Greate Expectations|Charles Dickens|---|---|Puffins|Literature|10
+
+31|A Tale of Two Cities |Charles Dickens|---|---|Puffins|Literature|10
+
+32|The Stone Angel|Margaret Lawrence|---|---|---|Children|9
+
